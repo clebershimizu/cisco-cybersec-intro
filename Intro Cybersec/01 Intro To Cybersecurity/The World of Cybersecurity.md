@@ -1,0 +1,1 @@
+All companies, people and machines are susceptible to security breaches.
