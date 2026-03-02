@@ -1,0 +1,4 @@
+When you are away from home, you can access your online information and surf the Internet via public wireless networks or Wi-Fi hotspots. However, there are some risks involved, which mean that it is best not to access or send any personal information when using public Wi-Fi.
+You should always verify that your device isn’t configured with file and media sharing and that it requires user authentication with encryption.
+You should also use an encrypted VPN service to prevent others from intercepting your information (known as ‘eavesdropping’) over a public wireless network. This service gives you secure access to the Internet, by encrypting the connection between your device and the VPN server. Even if hackers intercept a data transmission in an encrypted VPN tunnel, they will not be able to decipher it.
+https://www.fcc.gov/consumers/guides/how-protect-yourself-online
