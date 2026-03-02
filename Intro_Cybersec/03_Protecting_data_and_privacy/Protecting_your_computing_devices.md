@@ -1,0 +1,16 @@
+Turn the firewall on
+    You should use at least one type of firewall (either a software firewall or a hardware firewall on a router) to protect your device from unauthorized access. The firewall should be turned on and constantly updated to prevent hackers from accessing your personal or organization data.
+        UFW (Uncomplicated Firewall) on Arch.
+        sudo ufw status
+
+Install antivirus and antispyware
+    Malicious software, such as viruses and spyware, are designed to gain unauthorized access to your computer and your data. Once installed, viruses can destroy your data and slow down your computer. They can even take over your computer and broadcast spam emails using your account. Spyware can monitor your online activities, collect your personal information or produce unwanted pop-up ads on your web browser while you are online. To prevent this, you should only ever download software from trusted websites. However, you should always use antivirus software to provide another layer of protection. This software, which often includes antispyware, is designed to scan your computer and incoming email for viruses and delete them. Keeping your software up to date will protect your computer from any new malicious software that emerges.
+
+Manage your operating system and browser
+    Hackers are always trying to take advantage of vulnerabilities that may exist in your operating system (such as Microsoft Windows or macOS) or web browser (such as Google Chrome or Apple Safari). Therefore, to protect your computer and your data, you should set the security settings on your computer and browser to medium level or higher. You should also regularly update your computer’s operating system, including your web browser, and download and install the latest software patches and security updates from the vendors.
+
+Set up password protection
+    All of your computing devices, including PCs, laptops, tablets and smartphones, should be password protected to prevent unauthorized access. Any stored information, especially sensitive or confidential data, should be encrypted. You should only store necessary information on your mobile device, in case it is stolen or lost. Remember, if any one of your devices is compromised, the criminals may be able to access all of your data through your cloud storage service provider, such as iCloud or Google Drive.
+
+IoT devices
+    IoT devices pose an even greater risk than your other computing devices. While desktop, laptop and mobile platforms receive frequent software updates, most IoT devices have their original software. If vulnerabilities are found in the software, the IoT device is likely to be vulnerable. And to make the problem worse, IoT devices require Internet access, most often relying on your local network. The result is that when IoT devices are compromised, they allow hackers access to your local network and data. The best way to protect yourself from this scenario is to set up any IoT devices on an isolated network. Check out Shodan, a web-based IoT device scanner that helps you identify any vulnerable devices on the Internet.
