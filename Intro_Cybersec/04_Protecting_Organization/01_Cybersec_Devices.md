@@ -22,3 +22,5 @@ As computer and network attacks have become more sophisticated, new types of fir
 
 Network layer firewall
 This filters communications based on source and destination IP addresses.
+Transport layer firewall
+Filters communications based on source and destination data ports, as well as connection states.
